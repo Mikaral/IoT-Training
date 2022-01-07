@@ -14,7 +14,7 @@
 ## Objectives of Module 1
 
 - Define the term IoT.
-- State the tecnical trends that have led to IoT
+- State the technical trends that have led to IoT
 - Describe the impact of IoT on a society
 
 ## Lecture 1.1: Definition of IoT
@@ -25,7 +25,7 @@ Anything besides a computer (Desktop/Laptop/Server)
 
 ### Ok! So what does Internet of Things mean?
 
-We add a computional inteligence to a Thing to improve the function of the device. Finally, we add internet conectivity to further enhace its function. With all of this together, Voilà! We have a IoT device!
+We add a computational intelligence to a Thing to improve the function of the device. Finally, we add internet connectivity to further enhance its function. With all of this together, Voilà! We have a IoT device!
 
 **Pretty easy, right?**
 
@@ -39,13 +39,13 @@ A important thing to note is that a modern car has the same interface as a 1950 
 
 **Okay, we have computational intelligence, but where is the internet???**
 
-These modern cars are usign way more network, to remote start, to contact 911 by the internet in case of an accident. And we don't even started talking about Tesla cars which we can connect to a GPS network and trace a route, connect to Spotify, Social media, etc.
+These modern cars are using way more network, to remote start, to contact 911 by the internet in case of an accident. And we don't even started talking about Tesla cars which we can connect to a GPS network and trace a route, connect to Spotify, Social media, etc.
 
 **Great, now we know why modern cars are IoT devices!**
 
 ### Another example is a Logistical tagging (Barcode).Wait, what?
 
-First, let's understand the functionality of a Logistical Tagging. When moving devices (That's logistic in laymans terms) we have to track these devices, that's where barcodes comes in! Barcodes exist for a while. Nowadays, we usually don't use barcodes, we use RFID tags instead of barcodes. 
+First, let's understand the functionality of a Logistical Tagging. When moving devices (That's logistic in layman's terms) we have to track these devices, that's where barcodes comes in! Barcodes exist for a while. Nowadays, we usually don't use barcodes, we use RFID tags instead of barcodes. 
 
 **But why???? why RFID tags????????**
 
