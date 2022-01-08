@@ -1,7 +1,7 @@
-# Arduino Tutorial - Module 1: Week 1
+# IoT Course - Module 1: Week 1 - Lecture 1
 
-- [Arduino Tutorial - Module 1: Week 1](#arduino-tutorial---module-1-week-1)
-  - [Objectives of Module 1](#objectives-of-module-1)
+- [IoT Course - Module 1: Week 1 - Lecture 1](#iot-course---module-1-week-1---lecture-1)
+  - [Objectives of Week 1](#objectives-of-week-1)
   - [Lecture 1.1: Definition of IoT](#lecture-11-definition-of-iot)
     - [First, what exactly IS a thing?](#first-what-exactly-is-a-thing)
     - [Ok! So what does Internet of Things mean?](#ok-so-what-does-internet-of-things-mean)
@@ -11,7 +11,7 @@
   - [Lecture 1.3: Devices vs Computers](#lecture-13-devices-vs-computers)
     - [IoT devices are made for a special-purpose](#iot-devices-are-made-for-a-special-purpose)
 
-## Objectives of Module 1
+## Objectives of Week 1
 
 - Define the term IoT.
 - State the technical trends that have led to IoT
