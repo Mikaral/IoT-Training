@@ -1,5 +1,15 @@
 # IoT Course - Module 1: Week 1 - Lecture 3
 
+- [IoT Course - Module 1: Week 1 - Lecture 3](#iot-course---module-1-week-1---lecture-3)
+  - [Lecture 3.1: Societal benefits of IoT](#lecture-31-societal-benefits-of-iot)
+    - [IoT makes life easier!](#iot-makes-life-easier)
+    - [Independence for people](#independence-for-people)
+    - [It connects you to the World!](#it-connects-you-to-the-world)
+  - [Lecture 3.2: Risks, Privacy and Security](#lecture-32-risks-privacy-and-security)
+    - [Isolation](#isolation)
+    - [Dependency on Technology](#dependency-on-technology)
+    - [Privacy and Security](#privacy-and-security)
+
 ## Lecture 3.1: Societal benefits of IoT
 
 ### IoT makes life easier!
@@ -10,7 +20,7 @@ The use of Internet of Things technology makes life easier, that's the goal. In 
 
 IoT devices handle things that usually you would need a human to do. For example, fewer doctor visits, I don't need to go to the doctor to verify my blood level on my sugar, or my oxygen saturation, I can use IoT devices to do that for him. Of course, you need to visit doctors if something is wrong, but these devices are really handful to check if something is wrong with you.
 
-You see, depending on people for somethings can be burdensome, specially for infirm people. And IoT devices help to be more independent on this matter.
+You see, depending on people for some things can be burdensome, specially for infirm people. And IoT devices help to be more independent on this matter.
 
 ### It connects you to the World!
 
@@ -47,4 +57,4 @@ So, cars have lots of sensors, about the speed and things like that, and if you'
 
 Often you give permission to the person you purchase the device from, you give them permission to use that data in those long agreements that you click Okay to. So when you buy a device, buy a phone, or put an application on your phone and it says do you accept the agreement terms? And you don't read that, but you click Okay. So, in that, you are giving up all ownership of all data often. Right? So all this data that's being tracked, it can legally be given to some third party agency, and then they can sell that data whenever they want to. So, it's hard to keep track of your data. You don't know who has your data, because you agreed at some point to allow them to own that data.
 
-**Okay, not so cool... But we learned some disadvantages of IoT devices.**
+**We learned some disadvantages of IoT devices.**
