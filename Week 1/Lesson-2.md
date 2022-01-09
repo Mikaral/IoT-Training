@@ -16,7 +16,7 @@
 - Data costs are fairly low: Most people can afford it, though this is arguable.
 - Bandwidth is high: The bandwidth is becoming higher and higher and this make possible to many data heavy IoT applications to work.
 
-**Ok! Now we know what are some trends that helped the adoption of IoT!**
+**Ok! Now we know some trends that helped the adoption of IoT!**
 
 ## Lecture 2.2 - IoT is powerful and Pervasive
 

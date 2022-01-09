@@ -3,13 +3,8 @@
 - [IoT Course - Module 1: Week 1 - Lecture 1](#iot-course---module-1-week-1---lecture-1)
   - [Objectives of Week 1](#objectives-of-week-1)
   - [Lecture 1.1: Definition of IoT](#lecture-11-definition-of-iot)
-    - [First, what exactly IS a thing?](#first-what-exactly-is-a-thing)
-    - [Ok! So what does Internet of Things mean?](#ok-so-what-does-internet-of-things-mean)
   - [Lecture 1.2: IoT Devices](#lecture-12-iot-devices)
-    - [One classic example of a IoT device is a nowadays car. Why?](#one-classic-example-of-a-iot-device-is-a-nowadays-car-why)
-    - [Another example is a Logistical tagging (Barcode).Wait, what?](#another-example-is-a-logistical-tagging-barcodewait-what)
   - [Lecture 1.3: Devices vs Computers](#lecture-13-devices-vs-computers)
-    - [IoT devices are made for a special-purpose](#iot-devices-are-made-for-a-special-purpose)
 
 ## Objectives of Week 1
 
@@ -19,11 +14,11 @@
 
 ## Lecture 1.1: Definition of IoT
 
-### First, what exactly IS a thing?
+**First, what exactly IS a thing?**
 
 Anything besides a computer (Desktop/Laptop/Server)
 
-### Ok! So what does Internet of Things mean?
+**Ok! So what does Internet of Things mean?**
 
 We add a computational intelligence to a Thing to improve the function of the device. Finally, we add internet connectivity to further enhance its function. With all of this together, Voilà! We have a IoT device!
 
@@ -31,7 +26,7 @@ We add a computational intelligence to a Thing to improve the function of the de
 
 ## Lecture 1.2: IoT Devices
 
-### One classic example of a IoT device is a nowadays car. Why?
+**One classic example of a IoT device is a nowadays car. Why?**
 
 Well, nowadays cars has LOTS of computational intelligence. It probably has more than 50 chips in there. For instance, the Anti-Lock braking system has it's own processor just for that system, the same goes for fuel injection and so on!
 
@@ -43,7 +38,7 @@ These modern cars are using way more network, to remote start, to contact 911 by
 
 **Great, now we know why modern cars are IoT devices!**
 
-### Another example is a Logistical tagging (Barcode).Wait, what?
+**Another example is a Logistical tagging (Barcode). Wait, what?**
 
 First, let's understand the functionality of a Logistical Tagging. When moving devices (That's logistic in layman's terms) we have to track these devices, that's where barcodes comes in! Barcodes exist for a while. Nowadays, we usually don't use barcodes, we use RFID tags instead of barcodes. 
 
@@ -55,7 +50,7 @@ Good question! RFID tags can store a lot more information, and that information 
 
 ## Lecture 1.3: Devices vs Computers
 
-### IoT devices are made for a special-purpose
+**IoT devices are made for a special-purpose**
  
 Well, the biggest and most obvious difference to IoT Devices and Computers is that IoT devices have a main function separate from computation. Despite being a common joke on the gaming community, the main function of an toaster is NOT to compute things, the same goes from a fridge, a microwave, etc. But tell me one thing that you can do with your Intel® processor apart from processing things.
 
