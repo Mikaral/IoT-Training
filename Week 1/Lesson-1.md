@@ -40,7 +40,7 @@ These modern cars are using way more network, to remote start, to contact 911 by
 
 **Another example is a Logistical tagging (Barcode). Wait, what?**
 
-First, let's understand the functionality of a Logistical Tagging. When moving devices (That's logistic in layman's terms) we have to track these devices, that's where barcodes comes in! Barcodes exist for a while. Nowadays, we usually don't use barcodes, we use RFID tags instead of barcodes. 
+First, let's understand the functionality of a Logistical Tagging. When moving devices (That's logistic in layman's terms) we have to track these devices, that's where barcodes comes in! Barcodes exist for a while. Nowadays, we usually don't use barcodes, we use RFID tags instead of barcodes.
 
 **But why???? why RFID tags????????**
 
@@ -50,9 +50,8 @@ Good question! RFID tags can store a lot more information, and that information 
 
 ## Lecture 1.3: Devices vs Computers
 
-**IoT devices are made for a special-purpose**
- 
+**IoT devices are made for a special-purpose**'
+
 Well, the biggest and most obvious difference to IoT Devices and Computers is that IoT devices have a main function separate from computation. Despite being a common joke on the gaming community, the main function of an toaster is NOT to compute things, the same goes from a fridge, a microwave, etc. But tell me one thing that you can do with your Intel® processor apart from processing things.
 
 Computers are not good with a particular application, but they are generally good with everything. You can definitely record a video using your webcam and record the audio with the integrated microphone of your laptop, but a Camera and a Microphone that are made for that purpose will be better at this job.
-

@@ -30,6 +30,6 @@ Nowadays, IoT is everywhere and even though you may don't use it all the time, i
 
 You maybe even have a IoT device on you! No, I'm not talking about that 5G conspiracy bullshit, I'm talking about Insulin pumps and Pacemakers, all of these are IoT devices!
 
-If you think about it, in many countries IoT is literally in most of streets, by CCTVs, Traffic Lights, etc. 
+If you think about it, in many countries IoT is literally in most of streets, by CCTVs, Traffic Lights, etc.
 
 **Great! Now we know why IoT is powerful and pervasive!**
